@@ -1,4 +1,4 @@
-
+<a href="https://github.com/DavidsDvm">![DavidsDvm Profile GIF](./assets/profile_presentation.gif)</a>
 <div align="center">
 	<a href="https://cosmoart.vercel.app">
 		<img src="assets/hero.svg" alt="Hi, I am Zail" width="55%"/>
