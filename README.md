@@ -4,7 +4,7 @@
 
 <h3 align="center">A passionate FullStack Developer from Venezuela</h3>
 	<p>
-I'm a Web Developer specializing in frontend development with technologies like <strong>React,, and Boopstrap</strong>. Currently, I'm learning and improving in backend development, with technologies like <strong>Laravel, MySQL, and Spring </strong>, as well as <strong>Typescript and Testing</strong>.
+I'm a Web Developer specializing in frontend development with technologies like <strong>React, and Boopstrap</strong>. Currently, I'm learning and improving in backend development, with technologies like <strong>Laravel, MySQL, and Spring </strong>, as well as <strong>Typescript and Testing</strong>.
   </p>
 
   <h2>Skills</h2>
@@ -25,7 +25,24 @@ I'm a Web Developer specializing in frontend development with technologies like 
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/rekzail"><img src="https://github-readme-stats.vercel.app/api?username=rekzail&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Zail GitHub stats" /></a>
+<table border="0">
+  <tr>
+    <td>
+      <a href="http://www.github.com/rekzail">
+        <img src="https://github-readme-stats.vercel.app/api?username=rekzail&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Zail GitHub stats" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/rekzail/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rekzail&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Top Langs" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+
+
+
 <!--
 **rekzail/rekzail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
