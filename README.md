@@ -1,17 +1,31 @@
-<a href="https://github.com/DavidsDvm">![DavidsDvm Profile GIF](./assets/profile_presentation.gif)</a>
-<div align="center">
-	<a href="https://cosmoart.vercel.app">
-		<img src="assets/hero.svg" alt="Hi, I am Zail" width="55%"/>
-  	</a>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Zail+Vegas!;" />
+</h1>
+
+<h3 align="center">A passionate FullStack Developer from Venezuela</h3>
 	<p>
-I'm a Web Developer specializing in frontend development with technologies like <strong>React,, and Boopstrap</strong>. Currently, I'm learning and improving in backend development, with technologies like <strong>Node.js, MySQL, and Laravel, Spring </strong>, as well as <strong>Typescript and Testing</strong>.
+I'm a Web Developer specializing in frontend development with technologies like <strong>React,, and Boopstrap</strong>. Currently, I'm learning and improving in backend development, with technologies like <strong>Laravel, MySQL, and Spring </strong>, as well as <strong>Typescript and Testing</strong>.
   </p>
 
   <h2>Skills</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,spring,laravel,angular" height="42"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,php,laravel,angular,spring" height="42"/>
 </p>
+
+
+### Socials
+
+<p align="left"> 
+	<a href="https://www.linkedin.com/in/zail-vegas-padron/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+	
+</p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/rekzail"><img src="https://github-readme-stats.vercel.app/api?username=rekzail&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Zail GitHub stats" /></a>
 <!--
 **rekzail/rekzail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
